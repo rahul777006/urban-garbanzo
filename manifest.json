@@ -1,0 +1,30 @@
+{
+    "short_name": "my-page",
+    "name": "my-page",
+    "theme_color": "#fe6347",
+    "background_color": "#2c2c",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "iconx1.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "iconx2.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "iconx3.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "iconx4.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "/?utm_source=launcher"
+  }
